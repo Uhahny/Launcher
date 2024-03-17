@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Wolfblade",
-	"newClientUrl" : "https://github.com/Uhahny/Launcher/releases/download/1.0.0/Wolfblade.rar",
+	"newClientUrl" : "https://github.com/Uhahny/Launcher/releases/download/1.0.0/Wolfblade.zip",
 	"clientExecutable": "wolfblade.exe"
 }
