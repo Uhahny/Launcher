@@ -12,15 +12,15 @@
 		WindowStyle="None"
 		WindowStartupLocation="CenterScreen"
 		Title="Loading Launcher" Height="400" Width="800">
-	<Grid>
-		<Image
-			Height="150"
+    <Grid>
+        <Image
+			Height="277"
 			Source="pack://application:,,,/Assets/logo.png"
 			Stretch="Uniform"
 			HorizontalAlignment="Center"
 			VerticalAlignment="Center"
-			Visibility="Visible"></Image>
-		<TextBlock
+			Visibility="Visible" Width="348"></Image>
+        <TextBlock
 			HorizontalAlignment="Center"
 			VerticalAlignment="Center"
 			Margin="0, 180, 0, 0"
@@ -28,5 +28,5 @@
 			FontSize="16"
 			Text="Loading"
 			Visibility="Collapsed"/>
-	</Grid>
+    </Grid>
 </Window>
